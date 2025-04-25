@@ -19,3 +19,6 @@ We welcome contributions to improve the website or add new features! Here’s ho
 2. **Clone** it to your local machine:
    ```bash
    git clone https://github.com/COkaforSCHS/Neuronauts-summary-site.git
+
+## Contact
+For any inquiries, please contact us at info@neuronauts.com.
