@@ -3,7 +3,7 @@
 Welcome to the NeuroNauts: The Cognitive Cosmos Camp website! This repository contains the source code for the camp's promotional website.
 
 ## Website URL
-https://COkaforSCHS.github.io/neuronauts-camp
+https://COkaforSCHS.github.io/neuronauts-summary-site
 
 ## Description
 NeuroNauts is a 3-week hybrid summer enrichment camp designed for gifted learners in grades 7–11. The camp blends creative problem-solving, interdisciplinary inquiry, and socio-emotional learning to help students unlock their full potential. Participants explore topics across neuroscience, space science, and cognitive skills through engaging activities and team challenges.
