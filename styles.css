@@ -80,3 +80,47 @@ footer {
     color: #ff6f61;
     text-decoration: none;
 }
+:root {
+    --primary-color: #ff6f61;
+    --secondary-color: #fff;
+    --background-color: #f4f4f4;
+    --text-color: #333;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+.btn {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+@media (max-width: 768px) {
+    .hero h1 {
+        font-size: 2rem;
+    }
+
+    .hero p {
+        font-size: 1rem;
+    }
+
+    .btn {
+        font-size: 1rem;
+        padding: 0.5rem 1rem;
+    }
+}
+header {
+    background: #000 url('hero-image.jpg') no-repeat center center/cover;
+}
+.btn:focus, .social-media a:focus {
+    outline: 2px solid var(--primary-color);
+}
+.btn:hover {
+    background-color: #e65b54;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.social-media a:hover {
+    color: #e65b54;
+}
